@@ -1,0 +1,133 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	background-color: black;
+}
+
+nav ul li{
+	display: inline-block;
+	color: white;
+	padding-left: 25px;
+}
+
+nav{
+	float: right;
+	margin-right: 350px;
+	margin-top: 35px;
+}
+
+#top{
+	
+}
+
+#logo{
+	margin-left: 7%;
+	padding-left: 7%;
+}
+
+#banner{
+	margin-left: 7%;
+	width: 80%;
+	margin-right: 7%;
+	border: 8px solid white;
+}
+
+a{
+	color: white;
+	
+}
+
+header p{
+	color: white;
+	margin-left: 7%;
+	margin-right: 7%;
+	padding-bottom: 10px;
+}
+
+header h1{
+	color: white;
+	margin-left: 10%;
+}
+
+section{
+	background-color:  #dcdfe3;
+}
+
+#principal{
+	float: left;
+}
+
+.titulo{
+	color: orange;
+}
+
+.articulos{
+	float: left;
+	width: 15%;
+	margin-left: 7%;
+}
+
+section a{
+	color: orange;
+	background-color: #c1c3c7;
+	padding: 10px;
+	padding-top: 10px;
+}
+
+section p{
+	margin-right: 80px;
+}
+
+#titulo2{
+	color: #FF6666;
+	float: left;
+	clear: both;
+	margin-left: 82px; 
+}
+
+#fernand{
+	float: left;
+	padding-left: 82px;
+
+
+}
+
+#tumbado{
+	float: left;
+	clear: left;
+	margin-left: 82px;
+}
+
+footer{
+	background: url(../img/footer.png);
+}
+
+#catpaw{
+	margin-left: 85%;
+}
+
+#valid{
+	margin-left: 300px;
+}
+
+#copy{
+	margin-left: 1250px;
+}
+
+#hello{
+	float: left;
+}
+
+#bla{
+	float: left;
+}
+
+#purr{
+	float: left;	
+}
+
+#top{
+	padding-top: 150px;
+}
